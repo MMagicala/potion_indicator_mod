@@ -1,0 +1,11 @@
+{
+      "modid": "potion_indicator_mod",
+  "name": "Potion Indicator Mod",
+  "author_list": ["MMagicala"],
+  "description": "${project.description}",
+  "version": "${project.version}",
+  "sts_version": "${SlayTheSpire.version}",
+  "mts_version": "${ModTheSpire.version}",
+  "dependencies": ["basemod"],
+  "update_json": ""
+}
